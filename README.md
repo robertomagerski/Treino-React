@@ -6,7 +6,6 @@ Este projeto é uma **calculadora de IMC** desenvolvida em **ReactJS**, com o ob
 
 - ⚛️ ReactJS
 - 🎨 CSS3
-- 🛠️ Vite ou Create React App (ajustar se necessário)
 - 💡 JavaScript (ES6+)
 
 ## 📐 Como funciona
